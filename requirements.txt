@@ -1,9 +1,9 @@
-Flask==2.3.6
+Flask==2.3.3
 Flask-Bcrypt==1.0.1
 Flask-PyMongo==2.3.0
-Flask-SocketIO==5.5.1
+Flask-SocketIO==5.3.6
 python-socketio==5.9.0
-python-engineio==5.3.2
+python-engineio==4.9.1
 eventlet==0.33.3
 dnspython==2.5.0
 pymongo==4.4.0
