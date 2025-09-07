@@ -1,4 +1,4 @@
-Flask==2.3.6
+Flask==2.3.3
 Flask-Bcrypt==1.0.1
 Flask-PyMongo==2.3.0
 Flask-SocketIO==6.7.2
